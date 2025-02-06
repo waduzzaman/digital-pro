@@ -110,7 +110,7 @@ export default function About() {
                 Founded in 2020, DigitalPro emerged from a vision to bridge the gap between traditional marketing and the digital revolution. We understood that businesses needed more than just standard marketing solutions—they needed a partner who could guide them through the complexities of the digital landscape.
               </p>
               <p className="text-gray-600 mb-4">
-                Today, we are proud to have helped hundreds of businesses achieve their digital marketing goals. Our success is built on a foundation of continuous learning, adaptation, and a deep commitment to our clients' success.
+                Today, we are proud to have helped hundreds of businesses achieve their digital marketing goals. Our success is built on a foundation of continuous learning, adaptation, and a deep commitment to our clients success.
               </p>
               <div className="grid grid-cols-2 gap-6 mt-8">
                 <div className="text-center p-4 bg-blue-50 rounded-lg">

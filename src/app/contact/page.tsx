@@ -45,6 +45,7 @@ export default function Contact() {
         message: '',
         service: 'Select a Service',
       });
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     } catch (error) {
       setSubmitStatus({
         type: 'error',

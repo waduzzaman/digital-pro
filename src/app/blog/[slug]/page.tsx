@@ -1,6 +1,6 @@
 'use client';
 import Image from 'next/image';
-import Link from 'next/link';
+// import Link from 'next/link';
 import { useParams } from 'next/navigation';
 
 // Use the same BlogPost type from the main blog page
@@ -55,6 +55,7 @@ const blogPost: BlogPost = {
 
 export default function BlogPost() {
   const params = useParams();
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const { slug } = params;
 
   // In a real application, you would fetch the blog post data based on the slug

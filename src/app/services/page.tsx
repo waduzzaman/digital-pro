@@ -251,7 +251,7 @@ export default function Services() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-8">Ready to Transform Your Digital Presence?</h2>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Let's discuss how our services can help you achieve your business goals.
+            Lets discuss how our services can help you achieve your business goals.
           </p>
           <button className="bg-blue-600 text-white px-8 py-3 rounded-full font-semibold hover:bg-blue-700 transition-colors">
             Schedule a Consultation
