@@ -89,7 +89,7 @@ export default function About() {
           >
             <h1 className="text-5xl font-bold mb-6">Transforming Digital Presence</h1>
             <p className="text-xl text-gray-200">
-              We're a team of passionate digital marketers, creatives, and strategists dedicated to helping businesses thrive in the digital age.
+              We are a team of passionate digital marketers, creatives, and strategists dedicated to helping businesses thrive in the digital age.
             </p>
           </motion.div>
         </div>
@@ -110,7 +110,7 @@ export default function About() {
                 Founded in 2020, DigitalPro emerged from a vision to bridge the gap between traditional marketing and the digital revolution. We understood that businesses needed more than just standard marketing solutions—they needed a partner who could guide them through the complexities of the digital landscape.
               </p>
               <p className="text-gray-600 mb-4">
-                Today, we're proud to have helped hundreds of businesses achieve their digital marketing goals. Our success is built on a foundation of continuous learning, adaptation, and a deep commitment to our clients' success.
+                Today, we are proud to have helped hundreds of businesses achieve their digital marketing goals. Our success is built on a foundation of continuous learning, adaptation, and a deep commitment to our clients' success.
               </p>
               <div className="grid grid-cols-2 gap-6 mt-8">
                 <div className="text-center p-4 bg-blue-50 rounded-lg">
@@ -247,7 +247,7 @@ export default function About() {
           >
             <h2 className="text-3xl font-bold text-white mb-6">Ready to Transform Your Digital Presence?</h2>
             <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-              Let's work together to take your business to the next level with our innovative digital marketing solutions.
+              Lets work together to take your business to the next level with our innovative digital marketing solutions.
             </p>
             <a
               href="/contact"
