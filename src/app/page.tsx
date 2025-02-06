@@ -188,7 +188,7 @@ export default function Home() {
                   </div>
                   <div className="ml-4">
                     <h3 className="text-xl font-semibold mb-2">Proven Results</h3>
-                    <p className="text-gray-600">We've helped hundreds of businesses achieve their digital marketing goals.</p>
+                    <p className="text-gray-600">We have helped hundreds of businesses achieve their digital marketing goals.</p>
                   </div>
                 </div>
               </div>
@@ -232,7 +232,7 @@ export default function Home() {
                         <div className="text-gray-600">{testimonial.position}</div>
                       </div>
                     </div>
-                    <p className="text-xl italic text-gray-700 mb-6">"{testimonial.quote}"</p>
+                    <p className="text-xl italic text-gray-700 mb-6">`{testimonial.quote}`</p>
                   </div>
                 </div>
               ))}
@@ -257,7 +257,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold mb-8">Ready to Grow Your Business?</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-            Let's discuss how our digital marketing expertise can help you achieve your business goals.
+            Let us discuss how our digital marketing expertise can help you achieve your business goals.
           </p>
           <Link href="/contact"
             className="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-opacity-90 transition-all inline-block">
